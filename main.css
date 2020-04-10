@@ -1,0 +1,6 @@
+#sk_hints>div:empty {
+    display: none;
+}
+#sk_hints>div.hint-scrollable {
+    background: rgba(170, 170, 255, 0.85);
+}
